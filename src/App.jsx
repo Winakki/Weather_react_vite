@@ -10,12 +10,12 @@ function App() {
 
   
   const weatherImages = {
-    'Clear': { image: '/icons/sunny.png', description: 'Солнечно' },
-    'Rain': { image: '/icons/rain.png', description: 'Дождь' },
-    'Snow': { image: '/icons/snow.png', description: 'Снег' },
-    'Clouds': { image: '/icons/clouds.png', description: 'Облачно' },
-    'Thunderstorm': { image: '/icons/storm.png', description: 'Гроза' },
-    'Drizzle': { image: '/icons/sun-and-rain.png', description: 'Моросящий дождь' }
+    'Clear': { image: 'icons/sunny.png', description: 'Солнечно' },
+    'Rain': { image: 'icons/rain.png', description: 'Дождь' },
+    'Snow': { image: 'icons/snow.png', description: 'Снег' },
+    'Clouds': { image: 'icons/clouds.png', description: 'Облачно' },
+    'Thunderstorm': { image: 'icons/storm.png', description: 'Гроза' },
+    'Drizzle': { image: 'icons/sun-and-rain.png', description: 'Моросящий дождь' }
   };
 
  
